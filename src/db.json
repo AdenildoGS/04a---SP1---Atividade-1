@@ -1,0 +1,15 @@
+{
+    "useres": [
+      {
+        "id": 1,
+        "name": "Xbox One",
+        "price": 299.99
+      },
+      {
+        "id": 2,
+        "name": "PlayStation 5",
+        "price": 499.99
+      }
+    ]
+  }
+  
